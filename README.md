@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ramesh Madhusanka</h1><img src="./assets/sl-flag.gif" width="35px">
+<img src="./assets/logo.png" width="450px" align="right" />
+<font style="font-family: Helvetica, sans-serif;">
+
+<h1 align="center">Hi 👋, I'm Ramesh Madhusanka</h1><p align="center"> <img src="https://komarev.com/ghpvc/?username=krmadhusanka99&label=Profile%20views&color=0e75b6&style=flat" alt="krmadhusanka99" /> <img src="./assests/sl-flag.gif" width="35px"></p>
+
 <h3 align="center">🧑‍💻 Full Stack developer And an Undergraduate.</h3>
 
-✨I’m a Software Engineering Undergraduate at the University of Kelaniya. I’m mainly focusing on Java, ReactJS, and Spring boot. I like to learn new technologies and adepts to them in a short period of time. Not only as a school Cadet Sergent but also as University Table Tennis Vice-captain, I love to work as a team and try my best to fulfill the responsibilities given to me.](I’m a Software Engineering Undergraduate at the University of Kelaniya. I’m mainly focusing on Java, ReactJS, and Spring boot. I like to learn new technologies and adepts to them in a short period of time. Not only as a school Cadet Sergent but also as University Table Tennis Vice-captain, I love to work as a team and try my best to fulfill the responsibilities given to me.
+✨I’m a Software Engineering Undergraduate at the University of Kelaniya. I’m mainly focusing on Java, ReactJS, and Spring boot. I like to learn new technologies and adepts to them in a short period of time. Not only as a school Cadet Sergent but also as University Table Tennis Vice-captain, I love to work as a team and try my best to fulfill the responsibilities given to me.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krmadhusanka99&label=Profile%20views&color=0e75b6&style=flat" alt="krmadhusanka99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krmadhusanka99" alt="krmadhusanka99" /></a> </p>
 
