@@ -1,5 +1,5 @@
-<img src="./assets/logo.png" width="450px" align="right" />
-<font style="font-family: Helvetica, sans-serif;">
+<img src="./assests/logo.png" width="100px" align="left" /> 
+<img src="./assests/university-of-kelaniya-logo.png" width="100px" align="right" />
 
 <h1 align="center">Hi 👋, I'm Ramesh Madhusanka</h1><p align="center"> <img src="https://komarev.com/ghpvc/?username=krmadhusanka99&label=Profile%20views&color=0e75b6&style=flat" alt="krmadhusanka99" /> <img src="./assests/sl-flag.gif" width="35px"></p>
 
