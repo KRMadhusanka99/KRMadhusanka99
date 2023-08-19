@@ -5,16 +5,16 @@
 
 <h3 align="center">🧑‍💻 Full Stack developer And an Undergraduate.</h3>
 
-✨I’m a Software Engineering Undergraduate at the University of Kelaniya. I’m mainly focusing on Java, ReactJS, and Spring boot. I like to learn new technologies and adepts to them in a short period of time. Not only as a school Cadet Sergent but also as University Table Tennis Vice-captain, I love to work as a team and try my best to fulfill the responsibilities given to me.
+✨I’m a Software Engineering Undergraduate at the University of Kelaniya. I’m mainly focusing on Java, ReactJS, Spring boot and NodeJS. I like to learn new technologies and adepts to them in a short period of time. Not only as a school Cadet Sergent but also as University Table Tennis Vice-captain, I love to work as a team and try my best to fulfill the responsibilities given to me.
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krmadhusanka99" alt="krmadhusanka99" /></a> </p>
 
-- 🔭 I’m currently working on SENG_22212_Ecommerce_Web_Project
+- 🔭 I’m currently working on map pining traveling application
 
 - 🌱 I’m currently learning **Web Technologies & Mobile application Development**
 
-- 💬 Ask me about **Java, ReactJS, Spring-Boot, C**
+- 💬 Ask me about **Java, ReactJS, Spring-Boot, C, NodeJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
