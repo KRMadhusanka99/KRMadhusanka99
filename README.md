@@ -24,7 +24,7 @@
 <a href="https://medium.com/@kkrmadhu1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kkrmadhu1999" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/a4mathz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="a4mathz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kkrmadhu1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kkrmadhu1999" height="30" width="40" /></a>
-<a href="https://krmadhusanka99.github.io/my-portfolio-web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/internet.svg" alt="Ramesh_Madhusanka" height="30" width="40" /></a>
+<a href="https://krmadhusanka99.github.io/my-portfolio-web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/www.svg" alt="Ramesh_Madhusanka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
